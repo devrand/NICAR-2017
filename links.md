@@ -10,3 +10,4 @@ On March, 1st was a Tyapestry conference
   * [gifs for Dataviz](http://lenagroeger.com/datagifs/#/), [tools](https://github.com/lenagroeger/gifs)
   * Tools for publishing [ai2html, svgcrowbar](https://docs.google.com/presentation/d/1YSxRxrPTpCOyrYyJlyR_U33PuhZI2xYjCmISJp3KM3k/pub#slide=id.g1d0b3f77a7_0_0)
   * [Github for journos]() 
+  ... to b continued
