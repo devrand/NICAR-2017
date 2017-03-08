@@ -13,10 +13,16 @@ On March, 1st was a Tyapestry conference
   * Unsung data, Speakers: Dan Keating, Jeremy Singer-Vine
   * [Reproducibility and R Markdown](https://andrewbtran.github.io/NICAR/2017/reproducibility-rmarkdown/creating_packages.html)
   * [From R to interactive charts and maps](http://paldhous.github.io/NICAR/2017/r-to-javascript.html)
+  * Using R as a GIS for spatial analysis and visualization
+  * Command Line Graphics [slides](https://docs.google.com/presentation/d/1YEP9VJM16foortYfbaLrcwCR8X8V_XA5uEWPLoDjJ9Y/mobilepresent?slide=id.p) | [code](https://github.com/jonkeegan/command-line-graphics)
+  * Finding connections in campaign finance data with graph databases
+  * Programming best practices
   
   
   
-* Other interesting / weird stuff 
+  
+* Other interesting / weird stuff
+  * Command line for reporters (Unix)
   * [Readings](https://www.dropbox.com/sh/3fhpxq4xsxkowto/AABzDLgyXnvIaOz2S9oPWFxBa/1SlidesNicar/1A_SLIDES_NICAR?dl=0) from the Communicating Uncertainty panel with Alberto Cairo, Jen Christiansen and Mark Hansen
   * Social media
     * [Breaking Through The Facebook Wall](https://docs.google.com/presentation/d/173oI8KaDYrK7KDznPoZvgTyEXkeVZ1sIWNgO_8CoGeE/edit#slide=id.g1d0f2ec0f7_0_307)
@@ -26,6 +32,7 @@ On March, 1st was a Tyapestry conference
   * News Quizzes & Games  [slides](https://docs.google.com/presentation/d/18ZoWclvheo0ohYP0C82R7ESB0kCEh3V5QkTgaeHTSKA/edit#slide=id.p)
   * Cleaning data with MySQL (v. basic, but useful as a query examples) [github](https://github.com/mlalexander/NICARSQL)
   * v.basic but useful [guide](http://paldhous.github.io/NICAR/2017/r-analysis.html) for data analysis with R 
+  * [Twitter tricks and analytics](https://drive.google.com/file/d/0B-GOmv6pS0VsbUQwV2JVSWo0cUE/view)
   
 * Programming
  * The Python mini boot camp [github](https://github.com/ireapps/pycar), [slides](https://ireapps.github.io/pycar/pycar_intro.html#/1)
