@@ -22,5 +22,6 @@ On March, 1st was a Tyapestry conference
     * [Breaking Through The Facebook Wall](https://docs.google.com/presentation/d/173oI8KaDYrK7KDznPoZvgTyEXkeVZ1sIWNgO_8CoGeE/edit#slide=id.g1d0f2ec0f7_0_307)
     * [Social media sleuthing (слєжка)](https://docs.google.com/document/d/1o8WongwlHqgUhHZAmkLEilJ43MMlKRTcMWZHIO8x1v4/edit)
     * [Mining data from social media platforms](https://github.com/lamthuyvo/social-media-data-scripts)
-
   * Interactive design [@sarahslo](https://twitter.com/sarahslo)
+  * News Quizzes & Games  [slides](https://docs.google.com/presentation/d/18ZoWclvheo0ohYP0C82R7ESB0kCEh3V5QkTgaeHTSKA/edit#slide=id.p)
+ 
