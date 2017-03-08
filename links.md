@@ -25,6 +25,7 @@ On March, 1st was a Tyapestry conference
   * Interactive design [@sarahslo](https://twitter.com/sarahslo)
   * News Quizzes & Games  [slides](https://docs.google.com/presentation/d/18ZoWclvheo0ohYP0C82R7ESB0kCEh3V5QkTgaeHTSKA/edit#slide=id.p)
   * Cleaning data with MySQL (v. basic, but useful as a query examples) [github](https://github.com/mlalexander/NICARSQL)
+  * v.basic but useful [guide](http://paldhous.github.io/NICAR/2017/r-analysis.html) for data analysis with R 
   
 * Programming
  * The Python mini boot camp [github](https://github.com/ireapps/pycar), [slides](https://ireapps.github.io/pycar/pycar_intro.html#/1)
