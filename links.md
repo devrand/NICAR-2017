@@ -24,4 +24,8 @@ On March, 1st was a Tyapestry conference
     * [Mining data from social media platforms](https://github.com/lamthuyvo/social-media-data-scripts)
   * Interactive design [@sarahslo](https://twitter.com/sarahslo)
   * News Quizzes & Games  [slides](https://docs.google.com/presentation/d/18ZoWclvheo0ohYP0C82R7ESB0kCEh3V5QkTgaeHTSKA/edit#slide=id.p)
+  * Cleaning data with MySQL (v. basic, but useful as a query examples) [github](https://github.com/mlalexander/NICARSQL)
+  
+* Programming
+ * The Python mini boot camp [github](https://github.com/ireapps/pycar), [slides](https://ireapps.github.io/pycar/pycar_intro.html#/1)
  
