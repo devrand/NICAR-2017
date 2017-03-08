@@ -13,7 +13,7 @@ On March, 1st was a Tyapestry conference
   * Unsung data, Speakers: Dan Keating, Jeremy Singer-Vine
   * [Reproducibility and R Markdown](https://andrewbtran.github.io/NICAR/2017/reproducibility-rmarkdown/creating_packages.html)
   * [From R to interactive charts and maps](http://paldhous.github.io/NICAR/2017/r-to-javascript.html)
-  * [Tools for publishing web and print graphics](https://docs.google.com/presentation/d/1YSxRxrPTpCOyrYyJlyR_U33PuhZI2xYjCmISJp3KM3k/pub#slide=id.g1d0b3f77a7_0_0)
+  
   
   
 * Other interesting / weird stuff 
