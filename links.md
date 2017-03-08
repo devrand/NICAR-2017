@@ -13,5 +13,5 @@ On March, 1st was a Tyapestry conference
   *
   
   
-  
-  [Readings](https://www.dropbox.com/sh/3fhpxq4xsxkowto/AABzDLgyXnvIaOz2S9oPWFxBa/1SlidesNicar/1A_SLIDES_NICAR?dl=0) from the Communicating Uncertainty panel with Alberto Cairo, Jen Christiansen and Mark Hansen
+* Other interesting / weird stuff 
+  * [Readings](https://www.dropbox.com/sh/3fhpxq4xsxkowto/AABzDLgyXnvIaOz2S9oPWFxBa/1SlidesNicar/1A_SLIDES_NICAR?dl=0) from the Communicating Uncertainty panel with Alberto Cairo, Jen Christiansen and Mark Hansen
