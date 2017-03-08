@@ -22,7 +22,7 @@ On March, 1st was a Tyapestry conference
   
   
 * Other interesting / weird stuff
-  * Lighter side of data journalism, (slides)[https://docs.google.com/presentation/d/1bBW6y-BMb_EYOPM1rHdrti3IIh5JePirwuiNSwUNvDI/edit#slide=id.p]
+  * Lighter side of data journalism, [slides](https://docs.google.com/presentation/d/1bBW6y-BMb_EYOPM1rHdrti3IIh5JePirwuiNSwUNvDI/edit#slide=id.p)
   * Command line for reporters (Unix)
   * [Readings](https://www.dropbox.com/sh/3fhpxq4xsxkowto/AABzDLgyXnvIaOz2S9oPWFxBa/1SlidesNicar/1A_SLIDES_NICAR?dl=0) from the Communicating Uncertainty panel with Alberto Cairo, Jen Christiansen and Mark Hansen
   * Social media
