@@ -16,7 +16,7 @@ On March, 1st was a Tyapestry conference
 * Other interesting / weird stuff 
   * [Readings](https://www.dropbox.com/sh/3fhpxq4xsxkowto/AABzDLgyXnvIaOz2S9oPWFxBa/1SlidesNicar/1A_SLIDES_NICAR?dl=0) from the Communicating Uncertainty panel with Alberto Cairo, Jen Christiansen and Mark Hansen
   * Social media
-   * [Breaking Through The Facebook Wall](https://docs.google.com/presentation/d/173oI8KaDYrK7KDznPoZvgTyEXkeVZ1sIWNgO_8CoGeE/edit#slide=id.g1d0f2ec0f7_0_307)
-   * [Social media sleuthing (слєжка)](https://docs.google.com/document/d/1o8WongwlHqgUhHZAmkLEilJ43MMlKRTcMWZHIO8x1v4/edit)
-   * [Mining data from social media platforms](https://github.com/lamthuyvo/social-media-data-scripts)
+    * [Breaking Through The Facebook Wall](https://docs.google.com/presentation/d/173oI8KaDYrK7KDznPoZvgTyEXkeVZ1sIWNgO_8CoGeE/edit#slide=id.g1d0f2ec0f7_0_307)
+    * [Social media sleuthing (слєжка)](https://docs.google.com/document/d/1o8WongwlHqgUhHZAmkLEilJ43MMlKRTcMWZHIO8x1v4/edit)
+    * [Mining data from social media platforms](https://github.com/lamthuyvo/social-media-data-scripts)
 
