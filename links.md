@@ -11,6 +11,9 @@ On March, 1st was a Tyapestry conference
   * Tools for publishing [ai2html, svgcrowbar](https://docs.google.com/presentation/d/1YSxRxrPTpCOyrYyJlyR_U33PuhZI2xYjCmISJp3KM3k/pub#slide=id.g1d0b3f77a7_0_0)
   * [Github for journos](https://github.com/hectorsector/nicar-17/blob/master/nicar.pdf) 
   * Unsung data, Speakers: Dan Keating, Jeremy Singer-Vine
+  * [Reproducibility and R Markdown](https://andrewbtran.github.io/NICAR/2017/reproducibility-rmarkdown/creating_packages.html)
+  * [From R to interactive charts and maps](http://paldhous.github.io/NICAR/2017/r-to-javascript.html)
+  *
   
   
 * Other interesting / weird stuff 
@@ -20,3 +23,4 @@ On March, 1st was a Tyapestry conference
     * [Social media sleuthing (слєжка)](https://docs.google.com/document/d/1o8WongwlHqgUhHZAmkLEilJ43MMlKRTcMWZHIO8x1v4/edit)
     * [Mining data from social media platforms](https://github.com/lamthuyvo/social-media-data-scripts)
 
+  * Interactive design [@sarahslo](https://twitter.com/sarahslo)
