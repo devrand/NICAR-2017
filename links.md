@@ -1,5 +1,5 @@
 ## Tapestry
-On March, 1st was a Tyapestry conference
+On March, 1st, there was a Tyapestry conference:
 [Recap in graphic form](http://catherinemaddenrelay.com/blog/2017/3/6/tapestry-2017-recap)
 
 
