@@ -21,7 +21,7 @@ On March, 1st was a Tyapestry conference
   
 * Other interesting / weird stuff
   * Lighter side of data journalism, [slides](https://docs.google.com/presentation/d/1bBW6y-BMb_EYOPM1rHdrti3IIh5JePirwuiNSwUNvDI/edit#slide=id.p)
-  * Command line for reporters (Unix)
+  * Command line for reporters (Unix) (link???)
   * [Readings](https://www.dropbox.com/sh/3fhpxq4xsxkowto/AABzDLgyXnvIaOz2S9oPWFxBa/1SlidesNicar/1A_SLIDES_NICAR?dl=0) from the Communicating Uncertainty panel with Alberto Cairo, Jen Christiansen and Mark Hansen
   * Social media
     * [Breaking Through The Facebook Wall](https://docs.google.com/presentation/d/173oI8KaDYrK7KDznPoZvgTyEXkeVZ1sIWNgO_8CoGeE/edit#slide=id.g1d0f2ec0f7_0_307)
@@ -29,7 +29,7 @@ On March, 1st was a Tyapestry conference
     * [Mining data from social media platforms](https://github.com/lamthuyvo/social-media-data-scripts)
     * [Twitter tricks and analytics](https://drive.google.com/file/d/0B-GOmv6pS0VsbUQwV2JVSWo0cUE/view)
 
-  * Interactive design [@sarahslo](https://twitter.com/sarahslo)
+  * Interactive design [@sarahslo](https://twitter.com/sarahslo) (link???)
   * News Quizzes & Games  [slides](https://docs.google.com/presentation/d/18ZoWclvheo0ohYP0C82R7ESB0kCEh3V5QkTgaeHTSKA/edit#slide=id.p)
   * Cleaning data with MySQL (v. basic, but useful as a query examples) [github](https://github.com/mlalexander/NICARSQL)
   * v.basic but useful [guide](http://paldhous.github.io/NICAR/2017/r-analysis.html) for data analysis with R 
